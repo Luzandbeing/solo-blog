@@ -10,7 +10,7 @@ beinglee的个人博客
 
 ### 最新
 
-* [世界，你好！](http:///hello-solo)
+* [世界，你好！](http://www.beinglee.top/hello-solo)
 
 
 
